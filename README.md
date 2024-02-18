@@ -12,4 +12,4 @@
 ![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Standteile%203.png)
 
 ## 2.3 3D Model zu aufbauen
-    - [Datei](Hardware/3D Model.io)
+    - [Datei](Hardware/3D Model.md)
