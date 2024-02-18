@@ -12,4 +12,4 @@
 ![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Standteile%203.png)
 
 - 2.3 3D Model zu aufbauen
-    - Daten im Ordner Vorstellung 2
+    - Daten im Ordner Vorstellung 
