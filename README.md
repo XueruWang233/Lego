@@ -16,11 +16,11 @@
 
 
 ## 2.4 Konstruktion
-- Seite des Roboterhands
+    - Seite des Roboterhands
 
 ![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Roboterhand%203.JPG)
 
-- Seite des Sauberroboter
+    - Seite des Sauberroboter
 
 ![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Sauberroboter%203.JPG)
 
