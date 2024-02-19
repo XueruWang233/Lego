@@ -14,6 +14,17 @@
 ## 2.3 3D Model zu aufbauen
     - [Datei ist im Ordner Handware](https://github.com/XueruWang233/Lego/blob/main/Hardware/3D%20Model.io)
 
+
+## 2.4 Konstruktion
+- Seite des Roboterhands
+
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Roboterhand%203.JPG)
+
+- Seite des Sauberroboter
+
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Sauberroboter%203.JPG)
+
 # 3 Codes
 ## 3.1 Source Datei
     - [Datei ist im Ordner Codes](https://github.com/XueruWang233/Lego/blob/main/Codes/Projekt%201.lms)
+## 3.2 
