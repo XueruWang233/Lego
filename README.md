@@ -1,6 +1,6 @@
 # 1 Einführung
 ## 1.1 die Idee
-- Wir wollten einen Roboter mit praktischem Nutzen schaffen, einen interessanten kleinen Roboter, der im täglichen Leben eines Menschen eingesetzt werden kann. In unserer Kindheit haben wir mit manurell kontrollierte Autos und Switsch usw. gespielt. Es klingt also nach einer Menge Spaß, ein eigenes kleines Auto zu entwerfen und zu bauen und es mit einem Controller steuern zu können.
+Wir wollten einen Roboter mit praktischem Nutzen schaffen, einen interessanten kleinen Roboter, der im täglichen Leben eines Menschen eingesetzt werden kann. In unserer Kindheit haben wir mit manurell kontrollierte Autos und Switsch usw. gespielt. Es klingt also nach einer Menge Spaß, ein eigenes kleines Auto zu entwerfen und zu bauen und es mit einem Controller steuern zu können.
 
 Nachdem wir die Karosserie des Wagens zusammengebaut und programmiert hatten, konnten wir den kleinen Roboter mit Hilfe des Controllers geradeaus fahren, drehen und rückwärts fahren lassen.
 - Zusätzlich zu den grundlegenden Fahrfunktionen wollten wir dem kleinen Roboter ein paar nützliche Funktionen hinzufügen, wie zum Beispiel das Greifen. Also fügten wir an einer Seite des Wagens eine Roboterhand hinzu, der ebenfalls von einem Controller gesteuert wird. Jetzt können wir den kleinen Roboter so steuern, dass er zu einer Stelle im Raum läuft, das Ziel greift und es zu uns zurückbringt.
