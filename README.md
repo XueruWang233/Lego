@@ -46,7 +46,7 @@ Unser kleiner Roboter kann jetzt nicht nur manuell kontolliert werden, zu fahren
 
 # 3 Codes
 ## 3.1 Software
-    - Mindstorms
+    - Mindstorms 51515 Robot Inventor (https://apps.microsoft.com/detail/9MTQ0N7W1D6X?hl=en-US&gl=DE)
 ## 3.2 Source Datei
     - [Datei ist im Ordner Codes](https://github.com/XueruWang233/Lego/blob/main/Codes/Projekt%201.lms)
 ## 3.3 Codes und deren Funktionen
