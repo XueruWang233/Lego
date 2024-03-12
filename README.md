@@ -1,3 +1,17 @@
+# Project presentation
+## 1.1 The idea
+We wanted to create a robot with practical use, an interesting little robot that can be used in a person's daily life. In our childhood we used to play with manurelly controlled cars and Switsch etc.. So it sounds like a lot of fun to design and build your own little car and be able to control it with a controller.
+
+Once we had assembled and programmed the body of the car, we were able to make the little robot drive straight, turn and reverse using the controller.
+
+In addition to the basic driving functions, we wanted to add a few useful functions to the little robot, such as gripping. So we added a robot hand to one side of the car, which is also controlled by a controller. Now we can control the little robot to walk to a spot in the room, grab the target and bring it back to us.
+
+Now a new question arises: is a robot that can only be controlled manually a real robot? Or is it just a machine?
+
+For this reason, we have equipped our little robot with an automatic sweeping function. We built a vacuum robot part at the other end of the trolley.
+
+Our little robot can now not only be controlled manually, drive and reach, but also has an automatic sweeping function that collects the LEGO pieces scattered on the floor.
+
 # 1 Projektvostellung
 ## 1.1 die Idee
 Wir wollten einen Roboter mit praktischem Nutzen schaffen, einen interessanten kleinen Roboter, der im täglichen Leben eines Menschen eingesetzt werden kann. In unserer Kindheit haben wir mit manurell kontrollierte Autos und Switsch usw. gespielt. Es klingt also nach einer Menge Spaß, ein eigenes kleines Auto zu entwerfen und zu bauen und es mit einem Controller steuern zu können.
