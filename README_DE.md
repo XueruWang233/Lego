@@ -8,7 +8,7 @@ Zusätzlich zu den grundlegenden Fahrfunktionen wollten wir dem kleinen Roboter 
 
 Nun stellt sich eine neue Frage: Ist ein Roboter, der nur manuell gesteuert werden kann, ein echter Roboter? Oder ist er nur eine Maschine?
 
-Aus diesem Grund haben wir unseren kleinen Roboter mit einer automatischen Kehrfunktion ausgestattet. Wir haben ein Saugroboter-Teil an das andere Ende des Wagens gebaut. 
+Aus diesem Grund haben wir unseren kleinen Roboter mit einer automatischen Kehrfunktion ausgestattet. Wir haben ein Saugroboter-Teil an das andere Ende des Wagens gebaut. Außerdem haben wir den kleinen Roboter mit einem Abstandssensor ausgestattet, der die Richtung ändert, wenn er ein Hindernis im Umkreis von 30 cm wahrnimmt.
 
 Unser kleiner Roboter kann jetzt nicht nur manuell kontolliert werden, zu fahren und greifen, sondern hat auch eine automatische Kehrfunktion, die die auf dem Boden verstreuten LEGO Teile einsammelt.
 ## 1.2 Aufgaben
