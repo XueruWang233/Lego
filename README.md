@@ -12,6 +12,84 @@ For this reason, we have equipped our little robot with an automatic sweeping fu
 
 Our little robot can now not only be controlled manually, drive and reach, but also has an automatic sweeping function that collects the LEGO pieces scattered on the floor.
 
+## 1.2 Tasks
+- Think about what characteristics a small robot must have and sketch them.
+- Build prototypes based on sketches.
+- Program the small robot.
+- Test the small robot and optimize it.
+- Document the process and the results of the work and share them with other participants.
+## 1.3 Preparation
+- Learn software (through https://stackoverflow.com, https://www.youtube.com)
+
+# 2 Handware:
+## 2.1 Materials:
+     - LEGO® Education SPIKE™ Prime set (45678)
+     - LEGO® Education SPIKE™ Prime expansion set (45681)
+     - Controller (Sony PS4)
+## 2.2 components used:
+     - Elements, a light matrix, a distance sensor, 4 motors and a controller
+  
+       
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Standteile%201.png)
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Standteile%202.png)
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Standteile%203.png)
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Kontrolle.JPG)
+
+## 2.3 3D model to build
+    - [File is in the folder Handware](https://github.com/XueruWang233/Lego/blob/main/Hardware/3D%20Model.io)
+## 2.4 Construction
+    - Side of the robot hand
+
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Roboterhand%203.JPG)
+
+    - Side of the vacuum robot
+
+![](https://github.com/XueruWang233/Lego/blob/main/Hardware/Sauberroboter%203.JPG)
+
+# 3 Codes
+## 3.1 Software
+    - Mindstorms 51515 Robot Inventor (https://apps.microsoft.com/detail/9MTQ0N7W1D6X?hl=en-US&gl=DE)
+## 3.2 Source file
+    - [File is in the Codes folder](https://github.com/XueruWang233/Lego/blob/main/Codes/Projekt%201.lms)
+## 3.3 Codes and their functions
+- Manually controlled components (with the controller): When the side with the robot hand is used as the "head"(or so-called front) of the robot, the robot performs a series of actions and movements based on the human's use of the controller.
+    - When R2 button is pressed, the robot moves forward.
+    - When the D-pad left button is pressed, the robot turns left.
+    - When the D-pad right button is pressed, the robot turns right.
+    - When the R2 button is released, the robot stops.
+
+  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Fahren(to%20front)%20and%20turn.png)
+
+    - When the L2 button is pressed, the robot moves backwards.
+    - If the left cross-control key is pressed, the robot turns left.
+    - When the cross control right button is pressed, the robot turns right.
+    - When the L2 button is released, the robot stops.
+
+  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Ru%CC%88ckfahren%20und%20Abbigen.png)
+
+    - Initialization：In the initial state, the manipulator is in the closed state and the Cat Meow sound effect is playing.
+    - When triangle button is pressed, the robot hand opens.
+    - When the robot hand is detected in an open state, the hand closes automatically or the robot hand grabs the object, and then the Cat Meow sound effect plays.
+
+  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Initialisierung(closure)%20of%20Robothands.png)
+  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Roboterhand%20kontrollieren.png)
+
+- Automated components: When the side with the vacuum robot is used as the "head"(or so-called front) of the robot, the robot can sweep the Lego elements scattered on the floor under the robot.
+    - When the circle button is pressed, the robot functions as a vacuum robot or starts sweeping automatically.
+    - If the distance sensor detects an obstacle 30 cm away, the robot turns in a different direction to continue sweeping.
+    - The Robot Vacuum Cleaner continues to work until the cross button is pressed.
+
+ ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Programmierung_Sauberroboter.png)
+
+# 4 Status Quo
+- If the side of the robot hand is used as the front of the robot, the robot moves straight ahead, turns and moves backwards, depending on how the human operates the controls.
+
+- If the side with the suction robot is used as the "head" (or so-called front) of the robot, the robot can sweep the Lego elements that are scattered on the floor under the robot.
+
+
+
+
+
 # 1 Projektvostellung
 ## 1.1 die Idee
 Wir wollten einen Roboter mit praktischem Nutzen schaffen, einen interessanten kleinen Roboter, der im täglichen Leben eines Menschen eingesetzt werden kann. In unserer Kindheit haben wir mit manurell kontrollierte Autos und Switsch usw. gespielt. Es klingt also nach einer Menge Spaß, ein eigenes kleines Auto zu entwerfen und zu bauen und es mit einem Controller steuern zu können.
