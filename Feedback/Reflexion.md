@@ -1,5 +1,6 @@
 # 1 Tutor 
 https://stackoverflow.com
+
 [https://www.youtube.com ](https://www.youtube.com/watch?v=4BqZRNdOnAw&t=515s)(How to Use a PS4 Remote Control with LEGO MINDSTORMS 51515)
 [https://www.zhihu.com ](https://www.zhihu.com/question/507897648) (Übertragungsstruktur)
 # 2 was gelernt
