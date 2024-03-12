@@ -8,7 +8,7 @@ In addition to the basic driving functions, we wanted to add a few useful functi
 
 Now a new question arises: is a robot that can only be controlled manually a real robot? Or is it just a machine?
 
-For this reason, we have equipped our little robot with an automatic sweeping function. We built a vacuum robot part at the other end of the trolley.
+For this reason, we have equipped our little robot with an automatic sweeping function. We built a vacuum robot part at the other end of the trolley. We also added a distance sensor to the little robot that switches direction when he senses an obstacle within 30cm.
 
 Our little robot can now not only be controlled manually, drive and reach, but also has an automatic sweeping function that collects the LEGO pieces scattered on the floor.
 
