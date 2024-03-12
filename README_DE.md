@@ -80,9 +80,11 @@ Unser kleiner Roboter kann jetzt nicht nur manuell kontolliert werden, zu fahren
  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Programmierung_Sauberroboter.png)
 
 # 4 Status Quo
+VIDEO：[https://www.youtube.com ](https://youtu.be/Wk2D66UoW4k)
+
 - Wenn die Seite der Roboterhand als Vorderseite des Roboters verwendet wird, fährt der Roboter geradeaus, dreht sich, fährt rückwärts und greift Dinge, je nachdem, wie der Mensch die Steuerung bedient.
 
-- Wenn die Seite mit dem Saugroboter als "Kopf"(oder sog. Vorne) des Roboters verwendet wird, kann der Roboter die Lego-Elemente kehren, die auf dem Boden unter dem Roboter verstreut sind.
+- Wenn die Seite mit dem Saugroboter als "Kopf"(oder sog. Vorne) des Roboters verwendet wird, kann der Roboter die Lego-Elemente kehren, die auf dem Boden unter dem Roboter verstreut sind. Außerdem haben wir den kleinen Roboter mit einem Abstandssensor ausgestattet, der die Richtung ändert, wenn er ein Hindernis im Umkreis von 30 cm wahrnimmt.
 
 # 5 Feedback und Reflexion
 Mit diesem Projekt ist es uns gelungen, einen eigenen kleinen Roboter zu bauen. Er konnte die Funktionen erfüllen, die wir uns wünschten, und hatte einige lustige Elemente, wie z. B. das Rufen beim Öffnen und Schließen seiner Pfoten. Dadurch wurde unser kleiner Roboter lebendiger und nicht nur ein einfaches ferngesteuertes Auto oder eine Kehrmaschine, sondern unser Freund.
