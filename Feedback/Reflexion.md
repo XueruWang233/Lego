@@ -2,6 +2,7 @@
 https://stackoverflow.com
 
 [https://www.youtube.com ](https://www.youtube.com/watch?v=4BqZRNdOnAw&t=515s)(How to Use a PS4 Remote Control with LEGO MINDSTORMS 51515)
+
 [https://www.zhihu.com ](https://www.zhihu.com/question/507897648) (Übertragungsstruktur)
 # 2 was gelernt
 Mit diesem Projekt ist es uns gelungen, einen eigenen kleinen Roboter zu bauen. Er konnte die Funktionen erfüllen, die wir uns wünschten, und hatte einige lustige Elemente, wie z. B. das Rufen beim Öffnen und Schließen seiner Pfoten. Dadurch wurde unser kleiner Roboter lebendiger und nicht nur ein einfaches ferngesteuertes Auto oder eine Kehrmaschine, sondern unser Freund.
