@@ -82,7 +82,7 @@ Our little robot can now not only be controlled manually, drive and reach, but a
  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Programmierung_Sauberroboter.png)
 
 # 4 Status Quo
-VIDEO: VIDEO：[https://www.youtube.com ](https://youtu.be/Wk2D66UoW4k)
+VIDEO: [https://www.youtube.com ](https://youtu.be/Wk2D66UoW4k)
 - When the side of the robot hand is used as the front of the robot, the robot moves straight ahead, turns, moves backwards and grabs things, depending on how the human operates the controller.
 
 - If the side with the suction robot is used as the "head" (or so-called front) of the robot, the robot can sweep the Lego elements that are scattered on the floor under the robot.
