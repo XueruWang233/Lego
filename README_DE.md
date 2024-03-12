@@ -80,7 +80,7 @@ Unser kleiner Roboter kann jetzt nicht nur manuell kontolliert werden, zu fahren
  ![](https://github.com/XueruWang233/Lego/blob/main/Codes/Programmierung_Sauberroboter.png)
 
 # 4 Status Quo
-- Wenn die Seite der Roboterhand als Vorderseite des Roboters verwendet wird, fährt der Roboter geradeaus, dreht sich und fährt rückwärts, je nachdem, wie der Mensch die Steuerung bedient.
+- Wenn die Seite der Roboterhand als Vorderseite des Roboters verwendet wird, fährt der Roboter geradeaus, dreht sich, fährt rückwärts und greift Dinge, je nachdem, wie der Mensch die Steuerung bedient.
 
 - Wenn die Seite mit dem Saugroboter als "Kopf"(oder sog. Vorne) des Roboters verwendet wird, kann der Roboter die Lego-Elemente kehren, die auf dem Boden unter dem Roboter verstreut sind.
 
